@@ -13,4 +13,5 @@ A repository made for my Requirements Engineering project.
 - Week 5 - Learning Diagrams and Project Details.
 - Week 6 - Project began.
 - Week 7 - Skeleton of Project completed.
-- Week 8 - Pending...
+- Week 8 - Break
+- Week 9 - Filled in content
