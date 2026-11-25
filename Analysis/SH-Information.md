@@ -9,5 +9,3 @@ This list should be appended to, whichever a new relivant stakeholder is reveale
 
 Currently Students are the only staekholder that will interact with all faccists of the choosen solution, a servey to find out what features they wish to see would be greatly benfitial.
 Members involved in organising the Appiontments should be quizzed on features for the chosen solution that would benfit them.
-
-
