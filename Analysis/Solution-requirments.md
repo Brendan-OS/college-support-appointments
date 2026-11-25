@@ -5,7 +5,7 @@
 - There must be a clear and decisive polocy on cancelations and rearrangments for appiontment times, each person organsing a meeting cannot have their own personal & indepentant policy.
 - Different types of appiontments (Appiontments that have different requirements to the norm. such as longer time or a specailised meeting location) needs to be organised as such. this information should be readily avaiable to affected parties.
 - Privacy must be kept for all stakeholders.
-#####
+
 The solution choosen must be easily implemented either instead of, or over the current system. This is to ensure it is used and used correctly by Stakeholders, especailly those who previously operated under the pervious system.
 
 ### Other Potential Requirments
