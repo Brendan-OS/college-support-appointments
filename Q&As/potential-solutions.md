@@ -1,4 +1,4 @@
-##Technological Based
+## Technological Based
 
 It's likely that an app would be an overkill and overly complex solution. However, depending on the size of the college and the number of appointments being made or requested, it could be considered.
 
@@ -15,7 +15,7 @@ I would only realistically consider an app-based solution to be feasible for a l
 
 Additionally, depending on the current appointment booking system, a technology-based solution could build upon existing infrastructure, which would significantly improve the ease of implementation. An example of this would be if the college already uses an online booking platform.
 
-##Old-school Based
+## Old-school Based
 
 Using paper and forms to organize meetings and appointments would be feasible for a small-scale school, but it would be highly inadvisable to implement this approach in a college-level environment.
 
@@ -27,7 +27,7 @@ The simplicity of paper should not be overlooked despite its flaws. It could sti
 
 Most data is often stored alongside a physical copy, even in modern environments. These copies can be difficult to locate and even harder to access without the relevant permissions. This inconvenience is often avoided by staff because physical copies are a secondary form of data storage that they do not need to access very often, as most information is securely stored digitally.
 
-##Email Based
+## Email Based
 
 A system designed around stakeholders sending emails to arrange appointments would be preferable for a medium-sized college, rather than either of the previously suggested solutions.
 
@@ -43,7 +43,7 @@ An important consideration is that the chosen format should not be difficult to 
 
 This would only act as a supporting method, similarly to the paper-based approach suggested previously.
 
-##Hybrid Based
+## Hybrid Based
 
 A combination of several approaches would likely be the most flexible and easiest solution to implement.
 
