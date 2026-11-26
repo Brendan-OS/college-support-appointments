@@ -15,7 +15,7 @@ management easier.
 - cancellations and changes can be difficult to manage  
 - different staff may have different appointment types and availability  
 - information about students and appointments must be appropriately protected  
-- accessibility and ease of use need to be considered as the Requirements Engineer, investigate questions such as:
+- accessibility and ease of use need to be considered, investigative questions need to be asked, such as:
   - Who can make an appointment?  
   - Who can manage appointment availability?  
   - What types of appointments are available?  
