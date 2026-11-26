@@ -6,7 +6,7 @@ An app would have several benefits, such as:
 - Easy to amend.
 - Easy to advertise.
 - Reduces the workload of reception staff.
-- 
+
 Its disadvantages would include:
 - Expensive to develop and maintain.
 - Numerous requirements for full functionality.
