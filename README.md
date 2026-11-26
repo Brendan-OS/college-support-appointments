@@ -1,10 +1,6 @@
 # College Student Support Appointment System 
 A repository made for my Requirements Engineering project.
 
-## Student
-- Name: Brendan O'Sullivan.
-- T-Number: T00265269
-
 ## Project Status
 - Week 1 - None.
 - Week 2 - None.
