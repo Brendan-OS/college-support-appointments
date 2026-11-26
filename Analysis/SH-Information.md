@@ -1,15 +1,14 @@
 ## Identified Potential Stakeholders;
 - Support Service Staff. (Confirmed)
 - Students. (Confirmed)
-- 
+
 - Receptionists.
 - DSS officer.
 - Management.
 - Societies Officer.
 - IT/Equipment Technicians.
 - Data Protection Officer. (DPO)
-- Cleaning Staff.
-- Student Union Head.
+- Cleaning Staff/Facility Staff.
 
 This list should be appended to, whichever a new relivant stakeholder is revealed.
 
